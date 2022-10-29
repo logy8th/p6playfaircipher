@@ -14,7 +14,7 @@ Dosen       : Ahmad Turmudizy,S.Kom.,M.Kom
 ***
  ## Tugas Pertemuan 6
 
- Pada pertemuan ke-6 yang lalu, saya mendapat tugas untuk mengerjakan task yang terdapat didalam materi pada pertemuan ke-9, berikut tugas yang diberikan oleh dosen saya : <br>
+ Pada pertemuan ke-6 yang lalu, saya mendapat tugas untuk mengerjakan task yang terdapat didalam materi pada pertemuan ke-6, berikut tugas yang terdapat dalam materi : <br>
 <div align="center">
 <img src="images/image1.png" >
 </div>
